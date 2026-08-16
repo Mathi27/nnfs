@@ -13,4 +13,4 @@ Teaching young engineers how neural networks work by building them from scratch 
 
 ## Reference : 
 
-Inspired by [Neural Networks from Scratch in Python](https://nnfs.io/).
+Inspired by [Neural Networks from Scratch in Python](https://nnfs.io/)
